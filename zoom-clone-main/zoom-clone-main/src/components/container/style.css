@@ -1,0 +1,41 @@
+.container {
+   
+  width: 75vh;
+  height: 90.3vh;
+  background: linear-gradient(45deg, rgb(40, 41, 16), rgb(237, 250, 237));
+  flex-grow: 1;
+}
+
+.color-picker-container {
+  text-align: center;
+  display: inline;
+  color: white;
+}
+
+.brushsize-container {
+  display: inline;
+  color: black;
+  margin-left: 12px;
+}
+.erease {
+  display: inline;
+ 
+  margin-left: 25px;
+}
+.brush {
+  display: inline;
+ 
+  margin-left: 12px;
+}
+
+.tools-section {
+  text-align: center;
+}
+
+.board-container {
+  width: 90%;
+  height: 90%;
+  margin: auto;
+  margin-top: 1%;
+  background: white;
+}
